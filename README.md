@@ -7,3 +7,4 @@ Recursos
 Interface Acessível: Design adaptável com foco na usabilidade para deficientes visuais.
 Funcionalidades Interativas: Opções de navegação que garantem uma experiência fluida.
 Apoio à Comunidade: Foco em atender às necessidades específicas de pessoas com deficiência visual.
+![20240908200208](https://github.com/user-attachments/assets/280d75a5-75fa-4e26-a05c-43ede2bc5c96)
